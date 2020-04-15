@@ -2,7 +2,7 @@
 
 #### why were doing this
 
-This repo is an attempt at developing an open source,3d printed viral filter intended to be used by paramedics to safely perform airway management on patients suspected of being contagious for infectious disease. The need for this product is being driven by the pandemic caused by the novel corona virus which causes the disease covid-19. These viral filters are attachments to our airway equipment that have not been previously neeeded, and have overnight become an essential piece of equipment for saving the lives of patients. This is a need shared by every EMS department across the world the provides ALS services. Because of the sudden need for this equipment, access to purchasing these items is non-existent.
+This repo is an attempt at developing an open source,3d printed viral filter intended to be used by paramedics to safely perform airway management on patients suspected of being contagious for infectious disease. The need for this product is being driven by the pandemic caused by the novel corona virus which causes the disease covid*19. These viral filters are attachments to our airway equipment that have not been previously neeeded, and have overnight become an essential piece of equipment for saving the lives of patients. This is a need shared by every EMS department across the world the provides ALS services. Because of the sudden need for this equipment, access to purchasing these items is non*existent.
 
 #### what we are trying to make
 
@@ -10,7 +10,7 @@ The design is simply a device that attaches to our airway eqiupment at two diffe
 
 #### how to contribute
 
-If you would like to contribute your own design, clone master and create your own branch. As of this writing there is [one branch](https://github.com/alienfetuseater/DIY-viral-filters/tree/threaded-filter-design) with a working build file for a prototype. Development for [that](https://github.com/alienfetuseater/DIY-viral-filters/tree/threaded-filter-design) branch has been using Fusion360. If you would like to make a contribution to that branch, clone that branch and make a pull request with your design contributions.
+If you would like to contribute your own design, clone master and create your own branch. As of this writing there is [one branch](https://github.com/alienfetuseater/DIY*viral*filters/tree/threaded*filter*design) with a working build file for a prototype. Development for [that](https://github.com/alienfetuseater/DIY*viral*filters/tree/threaded*filter*design) branch has been using Fusion360. If you would like to make a contribution to that branch, clone that branch and make a pull request with your design contributions.
 
 #### this is what the equipment looks like
 
@@ -37,3 +37,25 @@ another image of the same viral filter:
 this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line:
 
 <img src="photos/ventToViralFilterToVentCircuit.jpg" height="100" alt="this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line">
+
+#### measurements of the equipment we have that we work with
+
+-   et tube (external diameter): 1.53cm
+-   capnography filter
+    -   et tube side (internal diameter): 1.55cm
+    -   vent circuit side (external diameter): 1.54cm
+-   vent circuit (internal diameter): 2.26cm
+-   vent circuit attachment
+    -   vent circuit side (external diameter): 2.3cm
+    -   et tube/capno filter side (internal diameter): 1.55cm
+-   ventilator (external diameter): 2.25cm
+
+#### description of what we need produced
+
+-   viral filter (sizes needed)
+    -   for between vent circuit to ventillator (as shown in photos)
+        -   vent side (internal diameter): 2.26cm - 2.3cm
+        -   vent circuit side (external diameter): 2.3cm
+    -   for between et tube and capnography filter line
+        -   et tube side (internal diameter): 1.53cm - 1.55cm
+        -   capnography filter line side (external diameter): 1.53cm
