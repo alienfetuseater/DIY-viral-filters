@@ -2,9 +2,9 @@ This repo is an attempt at developing an open source,3d printed viral filter int
 The design is simply a device that attaches to our airway eqiupment at two different points. As depicted in the images below is a traditional viral filter connected to a prehospital ventillator (yellow) on one end, and the ventillator circuit on the other end (the tubing that connects the ventillator to the breathing tube placed in the patient's airway). The 3d printed device is a meant only to hold a viral filter. These filters also are not available, as such we will be substituting with a either HEPA vacuum cleaner bags which filter particles of .3 microns and larger at 98.5% efficiency and greater. Other potential substitutes would be sacrifical n95 masks in the event they were in abundance.
 If you would like to contribute your own design, clone master and create your own branch. As of this writing there is one branch with a working build file for a prototype. Development for that branch has been using Fusion360. If you would like to make a contribution to that branch, clone that branch and make a pull request with your design contributions.
 
-<img src="photos/capnoFilterToVentCircuit.jpg">
-<img src="photos/ventCircuitToVent.jpg">
-<img src="photos/ventToViralFilterToVentCircuit.jpg">
-<img src="photos/viralFilter.jpg">
-<img src="photos/viralFilter2.jpg">
-<img src="photos/completeSetup.jpg">
+<img src="photos/capnoFilterToVentCircuit.jpg" width="75">
+<img src="photos/ventCircuitToVent.jpg" width="75">
+<img src="photos/ventToViralFilterToVentCircuit.jpg" width="75">
+<img src="photos/viralFilter.jpg" width="75">
+<img src="photos/viralFilter2.jpg" width="75">
+<img src="photos/completeSetup.jpg" width="75">
