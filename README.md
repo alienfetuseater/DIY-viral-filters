@@ -6,16 +6,16 @@ this is a picture of the complete setup, showing the vent connected to the vent 
 <img src="photos/completeSetup.jpg" width="75" alt="this is a picture of the complete setup, showing the vent connected to the vent circuit, connected to capnography filter, which connects to the endotracheal tube, which is inserted into a patient's airway">
 
 this is a closer up image of how the capnography filter connects to the vent circuit
-<img src="photos/capnoFilterToVentCircuit.jpg" width="75"alt="this is a closer up image of how the capnography filter connects to the vent circuit">
+<img src="photos/capnoFilterToVentCircuit.jpg" width="75" alt="this is a closer up image of how the capnography filter connects to the vent circuit">
 
 and this is a close up image showing how the vent circuit tubing connects to the ventilator itself
-<img src="photos/ventCircuitToVent.jpg" width="75"alt="and this is a close up image showing how the vent circuit tubing connects to the ventilator itself">
+<img src="photos/ventCircuitToVent.jpg" width="75" alt="and this is a close up image showing how the vent circuit tubing connects to the ventilator itself">
 
 this is an image of a traditional viral filter that is used in the hospitals. it is simply a connection between the vent circuit and the ventilator, forcing air that passes through to pass through the viral filter which is held inside the viral filter
-<img src="photos/viralFilter.jpg" width="75"alt="this is an image of a traditional viral filter that is used in the hospitals. it is simply a connection between the vent circuit and the ventilator, forcing air that passes through to pass through the viral filter which is held inside the viral filter">
+<img src="photos/viralFilter.jpg" width="75" alt="this is an image of a traditional viral filter that is used in the hospitals. it is simply a connection between the vent circuit and the ventilator, forcing air that passes through to pass through the viral filter which is held inside the viral filter">
 
 another image of the same viral filter
-<img src="photos/viralFilter2.jpg" width="75"alt="another image of the same viral filter">
+<img src="photos/viralFilter2.jpg" width="75" alt="another image of the same viral filter">
 
 this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line
-<img src="photos/ventToViralFilterToVentCircuit.jpg" width="75"alt="this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line">
+<img src="photos/ventToViralFilterToVentCircuit.jpg" width="75" alt="this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line">
