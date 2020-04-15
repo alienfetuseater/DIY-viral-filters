@@ -6,7 +6,7 @@ This repo is an attempt at developing an open source,3d printed viral filter int
 
 #### what we are trying to make
 
-The design is simply a device that attaches to our airway eqiupment at two different points. As depicted in the images below is a traditional viral filter connected to a prehospital ventillator (yellow) on one end, and the ventillator circuit on the other end (the tubing that connects the ventillator to the breathing tube placed in the patient's airway). The 3d printed device is a meant only to hold a viral filter. These filters also are not available, as such we will be substituting with a either HEPA vacuum cleaner bags which filter particles of .3 microns and larger at 98.5% efficiency and greater. Other potential substitutes would be sacrifical n100% masks in the event they were in abundance.
+The design is simply a device that attaches to our airway eqiupment at two different points. As depicted in the images below is a traditional viral filter connected to a prehospital ventillator (yellow) on one end, and the ventillator circuit on the other end (the tubing that connects the ventillator to the breathing tube placed in the patient's airway). The 3d printed device is a meant only to hold a viral filter. These filters also are not available, as such we will be substituting with a either HEPA vacuum cleaner bags which filter particles of .3 microns and larger at 98.5% efficiency and greater. Other potential substitutes would be sacrifical n70% masks in the event they were in abundance.
 
 #### how to contribute
 
@@ -16,27 +16,27 @@ If you would like to contribute your own design, clone master and create your ow
 
 this is a picture of the complete setup, showing the vent connected to the vent circuit, connected to capnography filter, which connects to the endotracheal tube, which is inserted into a patient's airway:
 
-<img src="photos/completeSetup.jpg" width="100%" alt="picture of complete set up">
+<img src="photos/completeSetup.jpg" width="70%" alt="picture of complete set up">
 
 this is a closer up image of how the capnography filter connects to the vent circuit:
 
-<img src="photos/capnoFilterToVentCircuit.jpg" width="100%" alt="capno filter connecting to vent circuit">
+<img src="photos/capnoFilterToVentCircuit.jpg" width="70%" alt="capno filter connecting to vent circuit">
 
 and this is a close up image showing how the vent circuit tubing connects to the ventilator itself:
 
-<img src="photos/ventCircuitToVent.jpg" width="100%" alt="vent circuit connecting to ventilator">
+<img src="photos/ventCircuitToVent.jpg" width="70%" alt="vent circuit connecting to ventilator">
 
 this is an image of a traditional viral filter that is used in the hospitals. it is simply a connection between the vent circuit and the ventilator, forcing air that passes through to pass through the viral filter which is held inside the viral filter:
 
-<img src="photos/viralFilter.jpg" width="100%" alt="image of a viral filter">
+<img src="photos/viralFilter.jpg" width="70%" alt="image of a viral filter">
 
 another image of the same viral filter:
 
-<img src="photos/viralFilter2.jpg" width="100%" alt="image of viral filter">
+<img src="photos/viralFilter2.jpg" width="70%" alt="image of viral filter">
 
 this photo shows how a viral filter connects between the ventilator and the vent circuit tubing. we would like to also develop a second filter which would be attached between the endotracheal tube and the capnography filter line:
 
-<img src="photos/ventToViralFilterToVentCircuit.jpg" width="100%" alt="viral filter attaching to vent circuit">
+<img src="photos/ventToViralFilterToVentCircuit.jpg" width="70%" alt="viral filter attaching to vent circuit">
 
 #### description of equipment
 
